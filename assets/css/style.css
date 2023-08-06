@@ -18,11 +18,14 @@ body {
 .header h1 {
     display: inline-block;
     font-size: 48px;
-}
-
-.header h1 .seo {
+} .seo { 
     color: #d9dcd6;
 }
+
+/*
+.header h1 .seo {
+    color: #d9dcd6;
+} */
 
 .header div {
     padding-top: 15px;
@@ -76,7 +79,7 @@ p {
     margin-left: 20px;
 }
 
-.benefits {
+.benefits-box {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -194,8 +197,11 @@ p {
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
+} h2 {
+    font-size: 20px
 }
 
+/*
 .footer h2 {
     font-size: 20px;
-}
+}*/
