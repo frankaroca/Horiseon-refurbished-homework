@@ -27,19 +27,19 @@ body {
     color: #d9dcd6;
 } */
 
-.header div {
+.header section {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-/*
+/* unnecesary code
 .header div ul {
     list-style-type: none;
 }*/
 
-.header div ul li {
+.header section ul li {
    /* list-style-type: none; */
     display: inline-block;
     margin-left: 25px;
@@ -145,7 +145,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-}
+} 
 /* Repeated code
 .online-reputation-management {
     margin-bottom: 20px;
@@ -165,9 +165,13 @@ p {
     color: #ffffff;
 }
 */
+
+
+
+
 .sectional-boxes img {
     max-height: 200px;
-}
+} 
 /* Repeated code
 .sectional-boxes img {
     max-height: 200px;
@@ -181,6 +185,10 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+
+
+
 /* Repeated code
 .online-reputation-management h2 {
     margin-bottom: 20px;
