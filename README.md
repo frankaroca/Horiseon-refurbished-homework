@@ -7,6 +7,8 @@ and creating accesibility for viewers using accesibility devices. Code optimized
 - Project Description
 - Features
 - Usage
+- Screenshots
+- Link
 - Installation
 - License
 
@@ -21,6 +23,10 @@ for search engines and meets the accesibility standards. The website is to reach
 
 ## Usage
 Website usage. Feel free to clone this repository to view it locally
+
+## Screenshots
+![Horiseon Home Page](/assets/images/Horiseon-home-1.PNG "Horiseon Home Page")
+
 
 ## Link
 Link to the deployed site:
