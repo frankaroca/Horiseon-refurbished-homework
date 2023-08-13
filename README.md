@@ -4,7 +4,7 @@ Maintain the web design but modifying the semantic elements, css stylesheet, red
 and creating accesibility for viewers using accesibility devices. Code optimized for search engines.
 
 ## Table of Contents
-- Project Description [An Internal Link to a Section Heading](/README.md##Project Description)
+- [Project Description](#project-description)
 - Features
 - Usage
 - Screenshots
@@ -12,7 +12,7 @@ and creating accesibility for viewers using accesibility devices. Code optimized
 - Installation
 - License
 
-## Project Description 
+## <a id="project-description"></a> Project Description 
 This project is a basic optimization of a website built using HTML and CCS. The new code gives optimization
 for search engines and meets the accesibility standards. The website is to reach a potential customers of a marketing agency.
 
