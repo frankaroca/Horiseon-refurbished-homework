@@ -22,6 +22,10 @@ for search engines and meets the accesibility standards. The website is to reach
 ## Usage
 Website usage. Feel free to clone this repository to view it locally
 
+## Link
+Below is the link to the deployed site:
+[Horiseon](https://frankaroca.github.io/Horiseon-refurbished-homework/)
+
 ## Installation
 No installation is required for this project. Simply open the HTML file in a web browser to view the website.
 
