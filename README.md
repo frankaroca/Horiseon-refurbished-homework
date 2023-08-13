@@ -4,7 +4,7 @@ Maintain the web design but modifying the semantic elements, css stylesheet, red
 and creating accesibility for viewers using accesibility devices. Code optimized for search engines.
 
 ## Table of Contents
-- Project Description
+- Project Description [An Internal Link to a Section Heading](/README.md##Project Description)
 - Features
 - Usage
 - Screenshots
