@@ -27,6 +27,9 @@ Website usage. Feel free to clone this repository to view it locally
 ## Screenshots
 ![Horiseon Home Page](/assets/images/Horiseon-home-1.PNG "Horiseon Home Page")
 
+![Horiseon Home Content](/assets/images/Horiseon-home-2.PNG "Horiseon Content")
+
+![Horiseon Home Footer](/assets/images/Horiseon-home-3.PNG "Horiseon Footer")
 
 ## Link
 Link to the deployed site:
