@@ -23,7 +23,7 @@ for search engines and meets the accesibility standards. The website is to reach
 Website usage. Feel free to clone this repository to view it locally
 
 ## Link
-Below is the link to the deployed site:
+Link to the deployed site:
 [Horiseon](https://frankaroca.github.io/Horiseon-refurbished-homework/)
 
 ## Installation
